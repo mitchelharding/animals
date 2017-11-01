@@ -1,0 +1,64 @@
+.lion{
+  float:left;
+  margin:10px;
+  width:200px;
+  padding:10px;
+  border: 10px solid green;
+}
+
+.lion img{
+  width:180px;
+}
+
+.lion p{
+  padding: 10px;
+}
+
+.tiger{
+  padding: 10px;
+  float:left;
+  margin:10px;
+  width: 200px;
+  border: 10px solid orange;
+}
+
+.tiger img{
+  width: 180px;
+}
+
+.tiger p{
+  padding: 10px;
+}
+
+.elephant{
+  padding: 10px;
+  float:left;
+  margin:10px;
+  width:200px;
+  border: 10px solid grey;
+
+}
+
+.elephant img{
+  width:180px
+}
+
+.elephant p{
+  padding: 10px;
+}
+
+.panda{
+  padding: 10px;
+  float:left;
+  margin:10px;
+  width:200px;
+  border: 10px solid red;
+}
+
+.panda img{
+  width:180px;
+}
+
+.panda p{
+  padding:10px;
+}
